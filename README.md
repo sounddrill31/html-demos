@@ -20,3 +20,6 @@ CMA Practicals Part A
     - [Link](prg6)
 - Program 7: Write a HTML/5 program to turn on/off a light bulb using JavaScript. Make use of gif image and buttons.
     - [Link](prg7)
+    - Image from google fonts!
+    - [light_off](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:light_off:FILL@0;wght@400;GRAD@0;opsz@40&icon.query=bulb&icon.size=42&icon.color=%231f1f1f)
+    - [light_2](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:lightbulb_2:FILL@0;wght@400;GRAD@0;opsz@40&icon.query=bulb&icon.size=42&icon.color=%231f1f1f)

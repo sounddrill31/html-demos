@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title> </title>
+	<script>
+		function toggleLight() {
+			var bulb = document.getElementById("lightbulb");
+			if (bulb.src.match("bulb_on.png"))
+			{
+				bulb.src = "bulb_off.png";
+				bulb.style.background="";
+				
+			}
+			else
+			{
+				bulb.src = "bulb_on.png";
+				bulb.style.background="radial-gradient(circle, rgba(240,251,63,1) 0%, rgba(252,70,107,0) 58%)";
+			}
+		}
+	</script>
+	<style>
+		
+	</style>
+</head>
+<body>
+	<div>
+		<img id="lightbulb" src=bulb_off.png alt="Light Bulb"/>
+	</div>
+	<div>
+		<button onclick="toggleLight()">Toggle Light</button>
+	</div>
+</body>
+</html>
