@@ -29,3 +29,5 @@ CMA Practicals Part B
     - [Link](partb/prg1)
 - Program 2: Write a HTML5 program to draw linear and radial gradient ellipse using SVG
     - [Link](partb/prg2)
+- Program 2: Write a HTML5 program to draw a star using SVG
+    - [Link](partb/prg3)
