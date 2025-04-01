@@ -23,3 +23,8 @@ CMA Practicals Part A
     - Image from google fonts!
     - [light_off](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:light_off:FILL@0;wght@400;GRAD@0;opsz@40&icon.query=bulb&icon.size=42&icon.color=%231f1f1f)
     - [light_2](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:lightbulb_2:FILL@0;wght@400;GRAD@0;opsz@40&icon.query=bulb&icon.size=42&icon.color=%231f1f1f)
+CMA Practicals Part B
+- Program 1: Write a HTML5 program to draw shapes using SVG like rectangle, line, polygon, polyline
+    - [Link](partb/prg1)
+<!-- - Program 2: Write a HTML5 program to draw linear and radial gradient ellipse using SVG
+    - [Link](partb/prg2)-->
