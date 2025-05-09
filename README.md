@@ -37,4 +37,6 @@ CMA Practicals Part B
     - [Link](partb/prg5)
 - Program 6: Write an HTML/5 program to demonstrate Bezier Curves and Quadratic Equations
     - [Link](partb/prg6)
-  
+- Program 7
+- Program 8: Write an HTML/5 program to add random size obstacles with a red square controller box
+    - [Link](partb/prg8)
