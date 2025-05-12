@@ -1,0 +1,15 @@
+<html>
+<body>
+<canvas id="myCanvas" width="300" height="150"></canvas>
+
+<script>
+const c = document.getElementById("myCanvas");
+const ctx = c.getContext("2d");
+ctx.beginPath();
+ctx.moveTo(20, 20);
+ctx.bezierCurveTo(20, 100, 200, 100, 200, 20); // (controlpoint1x, controlpoint1y, controlpoint2x, controlpoint2y, endingx, endingy)
+ctx.stroke();
+</script> 
+
+</body>
+</html>
